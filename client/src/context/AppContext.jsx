@@ -20,8 +20,7 @@ export const AppProvider = ({ children }) => {
   const navigate = useNavigate();
 
   const image_base_url =
-    import.meta.env.VITE_TMDB_IMAGE_BASE_URL ||
-    "https://image.tmdb.org/t/p/original";
+    import.meta.env.VITE_TMDB_IMAGE_BASE_URL 
 
   const fetchIsAdmin = async () => {
     try {

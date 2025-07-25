@@ -5,7 +5,7 @@ import timeFormat from "../lib/timeFormat";
 
 const MovieCard = ({ movie }) => {
   const navigate = useNavigate();
-  const image_base_url = import.meta.env.VITE_TMDB_IMAGE_BASE_URL || "https://image.tmdb.org/t/p/original";
+  const image_base_url = import.meta.env.VITE_TMDB_IMAGE_BASE_URL ;
   return (
     <div className="flex flex-col justify-between bg-gray-800 rounded-2xl hover:-translate-y-1 transition duration-300 shadow-lg p-3">
       <img
