@@ -31,6 +31,30 @@ export const dummyTrailers = [
         image: "https://img.youtube.com/vi/umiKiW4En9g/maxresdefault.jpg",
         videoUrl: 'https://www.youtube.com/watch?v=umiKiW4En9g'
     },
+    {
+        image: "https://img.youtube.com/vi/8Qn_spdM5Zg/maxresdefault.jpg",
+        videoUrl: 'https://www.youtube.com/watch?v=8Qn_spdM5Zg'
+    },
+    {
+        image: "https://img.youtube.com/vi/6ZfuNTqbHE8/maxresdefault.jpg",
+        videoUrl: 'https://www.youtube.com/watch?v=6ZfuNTqbHE8'
+    },
+    {
+        image: "https://img.youtube.com/vi/EXeTwQWrcwY/maxresdefault.jpg",
+        videoUrl: 'https://www.youtube.com/watch?v=EXeTwQWrcwY'
+    },
+    {
+        image: "https://img.youtube.com/vi/YoHD9XEInc0/maxresdefault.jpg",
+        videoUrl: 'https://www.youtube.com/watch?v=YoHD9XEInc0'
+    },
+    {
+        image: "https://img.youtube.com/vi/2LqzF5WauAw/maxresdefault.jpg",
+        videoUrl: 'https://www.youtube.com/watch?v=2LqzF5WauAw'
+    },
+    {
+        image: "https://img.youtube.com/vi/8ugaeA-nMTc/maxresdefault.jpg",
+        videoUrl: 'https://www.youtube.com/watch?v=8ugaeA-nMTc'
+    }
 ]
 
 const dummyCastsData = [
